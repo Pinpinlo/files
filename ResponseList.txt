@@ -1,5 +1,5 @@
 Question	Answer	Source	Metadata
-Good morning	Good morning	qna_chitchat_Professional	editorial:chitchat
-Good morning!	Good morning	editorial:chitchat
-Good Morning	Good morning	qna_chitchat_Professional	editorial:chitchat
-good morning	Good morning	qna_chitchat_Professional	editorial:chitchat
+Good morning	Good morning	NA.  NA.
+Good morning!	Good morning	NA.  NA.
+Good Morning	Good morning	NA.  NA.
+good morning	Good morning	NA.  NA.
