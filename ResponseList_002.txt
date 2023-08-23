@@ -1,4 +1,6 @@
 Question	Answer	Source	Metadata
+Hello	Hi	NA.  NA.
+Hi	Hello	NA.  NA.
 Good morning	Good morning	NA.  NA.
 Good morning!	Good morning	NA.  NA.
 Good Morning	Good morning	NA.  NA.
